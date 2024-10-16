@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qXEIbpj3aSVjau7tl8RPTGg0Xh/zHkI78OAOh4LxTFbP4QUOVE/Pt8kLuZ0L3HZSU9IISX0ljhMTqOL3RZHxJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kuzzz\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\BeaniesBosses\\BeaniesBosses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuzzz\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+Beanie's Bosses is a mod that adds fun bosses.
+Features Duchess Pogark and Ronin, with more bosses planned.
+
+A special thank you to zentaque#2472 for making the awesome music and Photonic0#1438 for helping out with the code, as well as both Fargo's Mods and TModLoader discord servers for helping me out in many ways.

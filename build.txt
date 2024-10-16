@@ -1,0 +1,3 @@
+displayName = Beanie's Bosses
+author = Beanie
+version = 0.2

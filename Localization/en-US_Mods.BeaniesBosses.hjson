@@ -1,0 +1,16 @@
+NPCs: {
+	SharkBoss.DisplayName: Duchess Pogark
+	RoninBoss.DisplayName: Ronin
+}
+
+Projectiles: {
+	SharkFire.DisplayName: Shark Fire
+	VertexSwordSlash.DisplayName: True Cobalt Sword
+}
+
+Items: {
+	SharkBait: {
+		DisplayName: Shark Bait
+		Tooltip: ""
+	}
+}
